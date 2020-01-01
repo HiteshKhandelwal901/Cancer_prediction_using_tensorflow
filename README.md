@@ -13,7 +13,7 @@ Malignant and Benign cancer prediction using tensorflow
    
    Step 1 : Create a virtual python Environment 
    
-   Step 2 : Download the cancer_test.py script in your Virtual python Environment you created
+   Step 2 : Download the cancer_test.py script and data.csv both in your Virtual python Environment root directory that you created
    
    Step 3 : Download the requirements.txt in your root directory ( Virtual Environment )
    
