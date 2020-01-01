@@ -9,11 +9,11 @@ Malignant and Benign cancer prediction using tensorflow
    
    Follow the steps below to run the script
    
-   ------------- Method 1 -----------------
+   ------------- ----------------------------
    
    Step 1 : Create a virtual python Environment 
    
-   Step 2 : Download the cancer_prediction.py script in your Virtual python Environment you created
+   Step 2 : Download the cancer_test.py script in your Virtual python Environment you created
    
    Step 3 : Download the requirements.txt in your root directory ( Virtual Environment )
    
@@ -23,13 +23,7 @@ Malignant and Benign cancer prediction using tensorflow
    Step 5 : run the script cancer_prediction.py
    
    
-   -------------- Method 2 --------------------
-   
-   Step 1 : Navigate to the dir where you want to Clone/ Downalod the repo
-   
-   Step 2 : Enter the commond - pip install -r requirements.txt
-   
-   Step 3 : Run the script cancer_prediction.py
+ ------------------------------------------------------
    
    
    
